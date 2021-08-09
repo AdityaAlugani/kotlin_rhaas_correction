@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CollegeManagementSystem</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="online_classes">online classes</string>
+    <string name="branch">Branch</string>
+    <string name="about_us">About us</string>
+    <string name="choose_class_to_attend">Choose class to attend</string>
+</resources>

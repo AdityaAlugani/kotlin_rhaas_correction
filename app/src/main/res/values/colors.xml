@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_home">#373737</color>
+    <color name="icon1">#E24058</color>
+    <color name="icon2">#F9C457</color>
+    <color name="icon3">#3499CB</color>
+    <color name="secondary_home">#F4A47D</color>
+    <color name="icon4">#1C57B9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#F0FFFFFF</color>
+    <color name="icon5">#4CAF50</color>
+</resources>
