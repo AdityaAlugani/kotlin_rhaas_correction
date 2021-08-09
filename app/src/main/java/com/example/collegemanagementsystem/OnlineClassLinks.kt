@@ -37,6 +37,8 @@ class OnlineClassLinks : AppCompatActivity() {
             {
                 startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://apps.google.com/meet/")))
             }
+
+
             if(position==2)
             {
                 startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://apps.google.com/meet/")))
