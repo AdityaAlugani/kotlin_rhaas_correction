@@ -22,6 +22,8 @@ class BranchActivity : AppCompatActivity() {
         binding.IT.setOnClickListener {
             startActivity(Intent(this,OnlineClassLinks::class.java))
         }
+
+
         binding.ece.setOnClickListener {
             startActivity(Intent(this,OnlineClassLinks::class.java))
         }
