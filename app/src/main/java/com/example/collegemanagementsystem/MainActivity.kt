@@ -28,6 +28,8 @@ import com.example.collegemanagementsystem.databinding.ActivityMainBinding
              startActivity(Intent(this,BranchActivity::class.java))
          }
 
+
      }
+
 
 }
